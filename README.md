@@ -6,7 +6,7 @@ pkg install python git -y
 
 pip install colorama
 
-git clone https://github.com/Atif249/AH_HAKER.py.git
+git clone https://github.com/Atif249/AH_HAKER.git
 
 cd AH_HAKER
 
